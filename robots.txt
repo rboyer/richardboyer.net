@@ -1,0 +1,9 @@
+# robots.txt for http://richardboyer.net/
+
+User-agent: *
+Disallow: /images/
+Disallow: /random/
+Disallow: /icons/
+Disallow: /docs/
+Disallow: /download/
+Disallow: /util/

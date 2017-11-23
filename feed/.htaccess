@@ -1,0 +1,10 @@
+DirectoryIndex feed.xml
+
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+<Files "feed.xml"> 
+ForceType 'application/atom+xml; charset=UTF-8'
+</Files> 
