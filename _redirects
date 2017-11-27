@@ -6,3 +6,5 @@
 /feed/rss2/ /feed/ 301
 /feed/atom  /feed/ 301
 /feed/atom/ /feed/ 301
+
+/feed/ /feed/feed.xml 200
